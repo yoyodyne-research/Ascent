@@ -1,0 +1,17 @@
+name=Ascent
+version=1.0.0
+author=?
+maintainer=Jay Reynolds<masterblasterofdisaster@gmail.com>, Ray Haleblian<ray@haleblian.com>
+description=ODE solver
+examples=
+license=LGPL 3.0
+url=https://github.com/?/Ascent
+board=*
+dependencies=
+LDFLAGS=
+LDLIBS=
+CXXFLAGS=
+CC=
+CXX=
+CFLAGS=
+CPPFLAGS=

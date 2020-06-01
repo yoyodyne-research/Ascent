@@ -1,0 +1,2 @@
+rsync -rv --delete include $HOME/Bela/libraries/Ascent
+rsync -v  lib.metadata $HOME/Bela/libraries/Ascent
