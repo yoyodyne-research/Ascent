@@ -1,2 +1,5 @@
-rsync -rv --delete include $HOME/Bela/libraries/Ascent
-rsync -v  lib.metadata $HOME/Bela/libraries/Ascent
+PREFIX=$HOME/Bela/libraries/Ascent
+
+rsync -rv --delete include $PREFIX
+rsync -v Ascent.h $PREFIX
+rsync -v lib.metadata $PREFIX
